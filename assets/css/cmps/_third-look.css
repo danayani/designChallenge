@@ -1,0 +1,9 @@
+.third-look-container{
+    height: 923px;
+    background-color: var(--clr-main-label);
+    
+}
+
+.third-look-label{
+    margin: 0px;
+}
