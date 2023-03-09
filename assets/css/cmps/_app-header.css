@@ -1,0 +1,26 @@
+header {
+    background-color: var(--main-bg-color-light);
+    color: var(--clr-txt);
+}
+
+.app-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a {
+    margin: .5em;
+}
+
+
+
+.btn-contact {
+    background-color: transparent;
+    color: var(--clr-txt);
+
+    border-color: var(--clr-txt);
+    border-radius: 26px;
+    height: 48px;
+    width: 120px;
+    /* border: 2px; */
+}

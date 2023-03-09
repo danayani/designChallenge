@@ -1,0 +1,10 @@
+
+.sec-look-container{
+    height: 689px;
+    background-color: var(--main-bg-color-dark);
+    
+}
+
+.sec-look-label{
+    margin: 0px;
+}

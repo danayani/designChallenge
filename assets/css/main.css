@@ -1,0 +1,22 @@
+/* Setup */
+@import './views/app.css';
+
+@import './setup/variables.css';
+/* @import './setup/fonts.css'; */
+
+/* Basics */
+@import './basics/base.css';
+@import './basics/helpers.css';
+@import './basics/layout.css';
+
+/* Views */
+@import './views/home.css';
+
+/* Cmps */
+
+@import './cmps/_app-header.css';
+@import './cmps/_first-look.css';
+@import './cmps/_sec-look.css';
+@import './cmps/_third-look.css';
+@import './cmps/_contact-us.css';
+@import './cmps/_app-footer.css';
